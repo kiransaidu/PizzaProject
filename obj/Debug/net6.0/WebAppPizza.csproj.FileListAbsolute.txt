@@ -223,3 +223,4 @@ D:\Phase 4\Main Project\WebAppPizza\WebAppPizza\obj\Debug\net6.0\refint\WebAppPi
 D:\Phase 4\Main Project\WebAppPizza\WebAppPizza\obj\Debug\net6.0\WebAppPizza.pdb
 D:\Phase 4\Main Project\WebAppPizza\WebAppPizza\obj\Debug\net6.0\WebAppPizza.genruntimeconfig.cache
 D:\Phase 4\Main Project\WebAppPizza\WebAppPizza\obj\Debug\net6.0\ref\WebAppPizza.dll
+D:\Phase 4\Main Project\WebAppPizza\WebAppPizza\obj\Debug\net6.0\WebAppPizza.sourcelink.json
